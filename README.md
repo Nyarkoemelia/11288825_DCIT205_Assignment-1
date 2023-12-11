@@ -1,4 +1,4 @@
-A node is a point of intersection/connection within a data communication network. In an environment where all devices are accessible through the network, these devices are all considered nodes.# Index Number: 11288825
+# Index Number: 11288825
 
 # Name: Emelia Ampofo
 
