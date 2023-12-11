@@ -1,1 +1,3 @@
-# 11288825_DCIT205_Assignment1
+# Index Number: 11288825
+
+# Name: Emelia Ampofo
